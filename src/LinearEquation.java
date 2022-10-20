@@ -67,8 +67,6 @@ public class LinearEquation {
 			   subtraction!
 	 */
 	public String equation() {
-		// TODO: m=1: y = (-)x + b
-
 		double m = slope();
 		double b = yIntercept();
 
